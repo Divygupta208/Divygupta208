@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Divygupta208/count.svg?"  />
+  <h2>Profile Views :  <img src="https://profile-counter.glitch.me/Divygupta208/count.svg?"  /></h2>
 </div>
 
 ###
