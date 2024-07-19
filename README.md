@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Divy and I'm a Frontend Enthusiast , learning to code my life , add some CSS and make it responsive using scripts.</h2>
 <a href="https://divy-my-portfolio.netlify.app/" >Visit My Portfolio</a>
 <h2>Live Links
-<a href="https://go-mail.netlify.app/" >go-Mail</a></h2>
-<a href="https://miroboards.vercel.app/" >Miro Boards</a></h2>
+<a href="https://go-mail.netlify.app/" >go-Mail</a> <a href="https://miroboards.vercel.app/" >Miro Boards</a></h2>
+
 
 ###
 
